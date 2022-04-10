@@ -1,7 +1,7 @@
+#!/usr/bin/env python3
 #Script to rename all .png & .jpg files in a folder to numerical values
 # 
 
-#!/usr/bin/env python3
 
 import os
 
